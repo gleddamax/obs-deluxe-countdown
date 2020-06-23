@@ -508,7 +508,7 @@ def script_description():
     Clock Type\tCount from now (Duration) or to target (Time)
     Format\tOutput time format
     Show Units\tShow time units in output
-    Duration\tInteger (sec) or HH:MM:SS
+    Duration\tInteger (min) or HH:MM:SS
     Date\t\tMM/DD/YYYY or TODAY
     Time\t\tHH:MM:SS [am/pm] for 12-hour
     End Text\tShown after countdown
